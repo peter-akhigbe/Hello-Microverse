@@ -78,7 +78,7 @@ Clone this repository to your desired folder: github.com/peter-akhigbe/Hello-Mic
 👤 **Author1**
 
 - GitHub: [@peter-akhigbe](https://github.com/peter-akhigbe)
-- Twitter: [@peter_akhigbe_](https://twitter.com/peter_akhigbe_)
+- Twitter: [@peter*akhigbe*](https://twitter.com/peter_akhigbe_)
 - LinkedIn: [peter-akhigbe](https://linkedin.com/in/peter-akhigbe)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -131,6 +131,6 @@ I would like to thank the Microverse curriculum.
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](./MIT.md) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
